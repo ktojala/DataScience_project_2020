@@ -9,10 +9,7 @@ Helsinki cycling data and weather
 ### B. Elevator pitch [max 400 characters]
 Helsinki is investing a lot in new bicycle routes and city bikes. How weather affects cycling is not that much discussed.
 Combining cycling data with weather data should give interesting results for eg. bicycle shops, city planners and to cyclists themselves.
-There is a huge amount of data available. Challenges are to find the most relevant data combinations and their effective visualization.
-
-Describe the data science challenges related to the following themes. A good project should include interesting challenges under most of 
-the themes. So for example, a project that begins with a single clean data set and a clear task (e.g., predict a given response), isn't a good choice for your project.        
+There is a huge amount of data available. Challenges are to find the most relevant data combinations and their effective visualization.       
             
 ### C. Data: sources, wrangling, management  
 general cycling data:  
