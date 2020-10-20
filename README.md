@@ -1,6 +1,8 @@
 # DataScience_project_2020
 ## Project Plan
 
+This mini-project was part of the Introduction to Data Science course in period I, 2020, at University of Helsinki 
+
 https://docs.google.com/document/d/1c1Mu25RaGfW6W3iKGsbEm2Gy1x0xKSiDlXNxK8yLR3o/edit
 
 ### A. Title of the project    
